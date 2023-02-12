@@ -21,7 +21,7 @@ name: whisparr
 sources:
   - https://github.com/KE0QHN/catalog/tree/main/stable/whisparr
 type: application
-version: 3.0.11
+version: 3.0.12
 annotations:
   truecharts.org/SCALE-support: "true"
   truecharts.org/catagories: |
